@@ -195,6 +195,7 @@ def show_birthday_30_days(contacts, *args):
 
 def exiting(*args):
     return "Good bye!"
+    
 
 
 def unknown_command(*args):
